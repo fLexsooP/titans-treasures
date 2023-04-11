@@ -5,7 +5,7 @@
 
 
 void techResearchComplete() {
-	std::cout << "Found some pretty cool tech research stuff on mongo db for the database " << std::endl;
+	std::cout << "Found some pretty cool tech research stuff on mongo db for the database \n"
 }
 
 
